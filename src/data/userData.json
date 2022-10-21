@@ -1,0 +1,66 @@
+{
+  "users": [{
+    "id": 0,
+    "crew": "1",
+    "name": "Marty Ballard",
+    "totalMiles": 146,
+    "milesPerMonth": [{
+      "month": "Oct",
+      "total": 67.5
+    }],
+    "adult": true,
+    "nickname": "Mr Ballard",
+    "color": "red"
+  },
+  {
+    "id": 1,
+    "crew": "2",
+    "name": "Jeremy Odell",
+    "totalMiles": 251,
+    "milesPerMonth": [{
+      "month": "Oct",
+      "total": 26.5
+    }],
+    "adult": true,
+    "nickname": "Mr Odell",
+    "color": "blue"
+  },
+  {
+    "id": 2,
+    "crew": "1",
+    "name": "Jake B",
+    "totalMiles": 497,
+    "milesPerMonth": [{
+      "month": "Oct",
+      "total": 3.5
+    }],
+    "adult": false,
+    "color": "green"
+  },
+  {
+    "id": 3,
+    "crew": "2",
+    "name": "Carson O",
+    "totalMiles": 814,
+    "milesPerMonth": [{
+      "month": "Oct",
+      "total": 21
+    }],
+    "adult": false,
+    "color": "yellow"
+  },
+  {
+    "id": 4,
+    "crew": "2",
+    "name": "Jason I",
+    "totalMiles": 146,
+    "milesPerMonth": [{
+      "month": "Oct",
+      "total": 150
+    }],
+    "adult": true,
+    "nickname": "Mr Ibernitzen",
+    "color": "green"
+  }
+  ]
+}
