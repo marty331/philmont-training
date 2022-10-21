@@ -1,5 +1,5 @@
 import { BarInterface } from '../interfaces/BarInterface';
-import styled, { StyledComponent } from "styled-components";
+import styled from "styled-components";
 
 
 const Bar = styled.div<BarInterface>`
