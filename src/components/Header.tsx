@@ -1,4 +1,3 @@
-import React from "react";
 import { Avatar } from '@fluentui/react-components';
 import { grandcanyon, tellepsen, strake, austin, dallas, philmont, texastech } from  '../images/images';
 
